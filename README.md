@@ -53,3 +53,10 @@ public:
         
     }
 };
+
+"acckzz"
+["acckzz","ccbazz","eiowzz","abcczz"]
+10
+"hamada"
+["hamada","khaled"]
+10
